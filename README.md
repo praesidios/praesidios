@@ -2,7 +2,7 @@
 
 **Senior Fullstack Developer** working with **TypeScript, React, Next.js, Node.js, and NestJS**.
 
-I build web applications with strong focus on web accessibility (WCAG), work across frontend and backend, and implement AI-assisted development workflows.
+I build web applications with a strong focus on web accessibility (WCAG), work across frontend and backend, and implement AI-assisted development workflows.
 
 My experience spans **AI-powered products, SaaS, FinTech, EdTech, and Industrial Software**.
 
